@@ -1,0 +1,15 @@
+{
+  "title": "H5PEditor.CorrectErrorsMarkerLabel",
+  "machineName": "H5PEditor.CorrectErrorsMarkerLabel",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 1,
+  "runnable": 0,
+  "author": "UrmasV",
+  "license": "MIT",
+  "preloadedJs": [
+    {
+      "path": "scripts/marker-label.js"
+    }
+  ]
+}
